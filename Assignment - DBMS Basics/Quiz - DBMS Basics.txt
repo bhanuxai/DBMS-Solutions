@@ -5,7 +5,7 @@ Identify the Primary key for Club relation.
 
 Ans : ClubID
 
-
+SECTRA-College Connect
 2) Consider an application for Club membership. There are many clubs at different locations. A club can have many members. Each member belonging to a particular club has a unique identity number. The member id can be same for different clubs. The below relations are created.
 Club (ClubId, Name, Location)
 Member (ClubId, MemberId, Name, Address)
@@ -29,7 +29,7 @@ Identify the Primary key for Club relation.
 
 Ans : CLubID
 
-
+SECTRA-College Connect
 5) Consider an application for a training institute. Here, a participant can enroll for multiple courses. A course can be enrolled by many participants. Assessments are conducted for courses and marks are awarded to participants. A participant is allowed to take assessment only once for a course. A participant can enroll for a course only if he/she has undertaken the prerequisite course. The below relations are created for the application.
 Participant (ParticipantId, Name, Address)
 Course (CourseId, Desc, Duration, Prerequisite)
@@ -46,7 +46,7 @@ Assessment (CourseId, Marks, ParticipantId)
 Identify the Primary key for Participant relation.
 
 Ans : {CourseId, ParticipantId} 
-
+SECTRA-College Connect
 
 7) Consider an application for a training institute. Here, a participant can enroll for multiple courses. A course can be enrolled by many participants. Assessments are conducted for courses and marks are awarded to participants. A participant is allowed to take assessment only once for a course. A participant can enroll for a course only if he/she has undertaken the prerequisite course. The below relations are created for the application.
 Participant (ParticipantId, Name, Address)
@@ -74,6 +74,7 @@ Identify the Primary key for Participant relation.
 
 Ans : CourseID
 ParticipantID
+SECTRA-College Connect
 
 
 10) Consider an application for a training institute. Here, a participant can enroll for multiple courses. A course can be enrolled by many participants. Assessments are conducted for courses and marks are awarded to participants. A participant is allowed to take assessment only once for a course. A participant can enroll for a course only if he/she has undertaken the prerequisite course. The below relations are created for the application.
@@ -104,3 +105,5 @@ CustomerId and GameId are foreign keys present in child table gaming, referring 
 Question: “A specific requirement requires, an attribute in the Game table has to refer to the GameId attribute present in the same table. Such a reference would not be possible and it is decided that the requirement is unfeasible.”Choose whether the above decision of the requirement is True or False with the correct reason.
 
 Ans : False. An attribute in a table/relation can reference another attribute in the same table/relation and this is called Self Referencing Foreign Key 
+
+SECTRA-College Connect
