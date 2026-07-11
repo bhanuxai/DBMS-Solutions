@@ -1,117 +1,96 @@
 <div align="center">
 
-# 📚 DBMS Solutions
+<img src="YOUR_LOGO_URL" width="180"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Infosys+Springboard+DBMS+Solutions;SQL+%7C+Normalization+%7C+ER+Diagram;DDL+%7C+DML+%7C+Assignments;Learn+Database+Management+System" />
+# 🚀 Sectra DBMS Solutions
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Welcome+to+Sectra+DBMS+Solutions;Learn+DBMS+the+Smart+Way;SQL+%7C+DDL+%7C+DML+%7C+Normalization;Assignments+%7C+Practice+%7C+Resources" />
 
 <p align="center">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/bhanuxai/DBMS-Solutions?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/bhanuxai/DBMS-Solutions?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/bhanuxai/DBMS-Solutions?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/bhanuxai/DBMS-Solutions?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/bhanuxai/DBMS-Solutions?style=for-the-badge&color=blue)
+![Forks](https://img.shields.io/github/forks/bhanuxai/DBMS-Solutions?style=for-the-badge&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/bhanuxai/DBMS-Solutions?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/bhanuxai/DBMS-Solutions?style=for-the-badge)
 
 </p>
+
+---
+
+### 🎓 Powered by **Sectra – College Connect**
+
+Helping students access organized DBMS resources, assignments, notes, and practice material in one place.
 
 </div>
 
 ---
 
-# 📖 About
+# 📚 What's Inside?
 
-This repository contains **Infosys Springboard DBMS Assignments and Practice Solutions**.
-
-It is created for students who are learning **Database Management Systems** and want reference solutions for practice.
-
----
-
-# 📂 Repository Contents
-
-- ✅ Introduction
-- ✅ DBMS Basics
-- ✅ SQL Basics
-- ✅ Normalization
-- ✅ Functional Dependency
-- ✅ ER Diagram
-- ✅ DDL Statements
-- ✅ DML Statements
-- ✅ Insert Statement
-- ✅ Select Clause
-- ✅ Practice Assignments
+- 📖 DBMS Basics
+- 🗄 SQL Basics
+- 🧩 ER Diagram
+- 🔑 Functional Dependency
+- 📑 Normalization
+- ⚡ DDL Statements
+- ✏ DML Statements
+- 📥 Insert Statement
+- 🔍 Select Clause
+- 📝 Assignments
 
 ---
 
-# 🛠 Topics Covered
+# 📂 Repository Structure
 
-| Topic | Status |
-|--------|--------|
+```
+📦 DBMS-Solutions
+ ┣ 📁 Introduction
+ ┣ 📁 DBMS Basics
+ ┣ 📁 SQL Basics
+ ┣ 📁 Normalization
+ ┣ 📁 Functional Dependency
+ ┣ 📁 ER Diagram
+ ┣ 📁 DDL Statements
+ ┣ 📁 DML Statements
+ ┣ 📁 Assignment - DBMS Basics
+ ┣ 📁 Assignment - SQL Basics
+ ┗ 📁 Assignment - DDL & DML
+```
+
+---
+
+# 📊 Progress
+
+| Module | Status |
+|---------|--------|
+| Introduction | ✅ |
 | DBMS Basics | ✅ |
 | SQL Basics | ✅ |
-| Normalization | ✅ |
-| Functional Dependency | ✅ |
 | ER Diagram | ✅ |
-| DDL Statements | ✅ |
-| DML Statements | ✅ |
-| INSERT Statement | ✅ |
-| SELECT Clause | ✅ |
+| Functional Dependency | ✅ |
+| Normalization | ✅ |
+| DDL | ✅ |
+| DML | ✅ |
 | Assignments | ✅ |
 
 ---
 
-# 🚀 Repository Structure
-
-```
-DBMS-Solutions
-│
-├── Introduction
-├── DBMS Basics
-├── SQL Basics
-├── Normalization
-├── Functional Dependency
-├── ER Diagram
-├── DDL Statements
-├── DML Statements
-├── Assignment - DBMS Basics
-├── Assignment - SQL Basics
-└── Assignment - DDL & DML
-```
-
----
-
-# ⭐ Support
+# ⭐ Support Sectra
 
 If this repository helped you,
 
-⭐ Star the repository
+⭐ Star this repository
 
 🍴 Fork it
 
-📢 Share it with your friends
-
----
-
-# 📊 Repository Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhanuxai&repo=DBMS-Solutions&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌟 Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=bhanuxai&repo=DBMS-Solutions&label=Repository+Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
+📢 Share it with your classmates
 
 ---
 
 <div align="center">
 
-### Made with ❤️ by Bhanu Sesha Sai
+## 💙 Built with ❤️ by Sectra
+
+### College Connect • Learn • Share • Grow
 
 </div>
