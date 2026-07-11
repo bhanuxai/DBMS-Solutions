@@ -51,8 +51,7 @@ Whether you're preparing for exams or strengthening your SQL skills, this reposi
 ```text
 DBMS-Solutions
 │
-├── 📁 assets
-│   └── sectra-logo.png
+├── 📁 sectra-logo.png
 │
 ├── 📁 Introduction
 ├── 📁 DBMS Basics
