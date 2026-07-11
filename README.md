@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/sectra-logo.png" width="220"/>
+<img src="sectra (3).png" width="220"/>
 
 # 📚 Sectra DBMS Solutions
 
