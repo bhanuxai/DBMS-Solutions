@@ -126,23 +126,7 @@ Learn • Share • Grow
 
 ---
 
-<!-- <div align="center">
 
-# 👨‍💻 Creator
-
-## Bhanu Sesha Sai
-
-Founder of **Sectra – College Connect**
-
-Passionate about Artificial Intelligence, Machine Learning, Open Source, and building tools that help students.
-
-### 📲 Connect with Me
-
-<a href="https://www.instagram.com/bhanuxai/">
-<img src="https://img.shields.io/badge/Instagram-@bhanuxai-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<br><br> -->
 
 
 <div align="center">
@@ -162,11 +146,5 @@ Passionate about Artificial Intelligence, Machine Learning, Open Source, and bui
 ⭐ If this repository helped you, consider giving it a Star!
 
 Made with ❤️ by **Bhanu Sesha Sai** | Powered by **Sectra**
-
-</div>
-
-⭐ If this repository helped you, consider giving it a Star!
-
-Made with ❤️ by **Bhanu Sesha Sai**
 
 </div>
