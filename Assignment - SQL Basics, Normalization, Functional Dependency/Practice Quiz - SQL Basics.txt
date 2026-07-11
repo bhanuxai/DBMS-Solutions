@@ -6,7 +6,7 @@ iv.  98.47
 v.   9.7856
 
 Ans : i, iv and v 
-
+SECTRA-College Connect
 
 2) Which is the appropriate datatype to store a maximum length of 8000 characters that can contain variable length unicode characters?
 
@@ -17,7 +17,7 @@ Ans : CLOB
 
 Ans : INTEGER
 
-
+SECTRA-College Connect
 4) How many among the following commands are DML statements?
 CREATE, UPDATE, TRUNCATE, DELETE , ROLLBACK and REVOKE
 
@@ -46,7 +46,7 @@ Choose from the below options:
 VARCHAR2(20), TIMESTAMP, DATE, CHAR(20)
 
 Ans : TIMESTAMP
-
+SECTRA-College Connect
 
 7) Consider the below scenario:
 XYZ hospital has a procedure of filling up an admission form to admit a new patient. In the admission form, the details of patient like name, dob, and gender are required. A six digit unique numeric id is assigned to every patient. The admission form also requires a passport size photo of the patient. The recorddate consists of the date and time at which the patient was admitted to hospital and dob denotes the date of birth of the patient. The name of the patient can have a maximum of 50 characters and the gender has to be specified as M or F.
@@ -60,10 +60,11 @@ ABC Channel is a TV Channel and planning their best TV shows to marathon. On the
 Choose the appropriate data type for avgrating column from the below:
 
 Ans : NUMBER(3,2)
-
+SECTRA-College Connect
 
 9) Evaluate the following expression assuming that the value of dept is XYZ and salary is 30000:
 NOT (5 !=5)  OR  (DEPT NOT IN(‘DEF’, ‘XYT’) AND SALARY BETWEEN 30000 AND 50000)
 What will be the output of the above expression?
 
 Ans : TRUE
+SECTRA-College Connect
