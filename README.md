@@ -126,7 +126,7 @@ Learn • Share • Grow
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 # 👨‍💻 Creator
 
@@ -142,7 +142,28 @@ Passionate about Artificial Intelligence, Machine Learning, Open Source, and bui
 <img src="https://img.shields.io/badge/Instagram-@bhanuxai-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
+<br><br> -->
+
+
+<div align="center">
+
+## 🌐 Connect with Me
+
+<a href="https://www.instagram.com/bhanuxai/">
+<img src="https://img.shields.io/badge/Instagram-@bhanuxai-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://chat.whatsapp.com/CDWnuEt2D6K9oH7i34rX3O">
+<img src="https://img.shields.io/badge/Sectra-WhatsApp%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 <br><br>
+
+⭐ If this repository helped you, consider giving it a Star!
+
+Made with ❤️ by **Bhanu Sesha Sai** | Powered by **Sectra**
+
+</div>
 
 ⭐ If this repository helped you, consider giving it a Star!
 
