@@ -1,96 +1,152 @@
 <div align="center">
 
-<img src="YOUR_LOGO_URL" width="180"/>
+<img src="assets/sectra-logo.png" width="220"/>
 
-# 🚀 Sectra DBMS Solutions
+# 📚 Sectra DBMS Solutions
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Welcome+to+Sectra+DBMS+Solutions;Learn+DBMS+the+Smart+Way;SQL+%7C+DDL+%7C+DML+%7C+Normalization;Assignments+%7C+Practice+%7C+Resources" />
-
-<p align="center">
-
-![Stars](https://img.shields.io/github/stars/bhanuxai/DBMS-Solutions?style=for-the-badge&color=blue)
-![Forks](https://img.shields.io/github/forks/bhanuxai/DBMS-Solutions?style=for-the-badge&color=blue)
-![Last Commit](https://img.shields.io/github/last-commit/bhanuxai/DBMS-Solutions?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/bhanuxai/DBMS-Solutions?style=for-the-badge)
-
+<p>
+A collection of well-organized <b>Database Management System (DBMS)</b> resources, assignments, SQL solutions, and practice materials for students.
 </p>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+Sectra+DBMS+Solutions;Master+Database+Management+System;SQL+%7C+DDL+%7C+DML+%7C+Normalization;Learn+Practice+Grow"/>
 
-### 🎓 Powered by **Sectra – College Connect**
+<br>
 
-Helping students access organized DBMS resources, assignments, notes, and practice material in one place.
+![Stars](https://img.shields.io/github/stars/bhanuxai/DBMS-Solutions?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/bhanuxai/DBMS-Solutions?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/bhanuxai/DBMS-Solutions?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/bhanuxai/DBMS-Solutions?style=for-the-badge)
+![License](https://img.shields.io/github/license/bhanuxai/DBMS-Solutions?style=for-the-badge)
 
 </div>
 
 ---
 
-# 📚 What's Inside?
+# 🚀 About
 
-- 📖 DBMS Basics
-- 🗄 SQL Basics
-- 🧩 ER Diagram
-- 🔑 Functional Dependency
+**Sectra DBMS Solutions** is a curated repository that helps students learn Database Management System concepts through organized notes, assignments, SQL queries, and practice resources.
+
+Whether you're preparing for exams or strengthening your SQL skills, this repository provides structured material to make learning easier.
+
+---
+
+# 📚 Repository Contents
+
+- 📖 Introduction
+- 🏛️ DBMS Basics
+- 💾 SQL Basics
+- 🔗 Functional Dependency
 - 📑 Normalization
-- ⚡ DDL Statements
-- ✏ DML Statements
+- 🗂️ ER Diagram
+- ⚙️ DDL Statements
+- ✏️ DML Statements
 - 📥 Insert Statement
 - 🔍 Select Clause
-- 📝 Assignments
+- 📝 Practice Assignments
 
 ---
 
 # 📂 Repository Structure
 
-```
-📦 DBMS-Solutions
- ┣ 📁 Introduction
- ┣ 📁 DBMS Basics
- ┣ 📁 SQL Basics
- ┣ 📁 Normalization
- ┣ 📁 Functional Dependency
- ┣ 📁 ER Diagram
- ┣ 📁 DDL Statements
- ┣ 📁 DML Statements
- ┣ 📁 Assignment - DBMS Basics
- ┣ 📁 Assignment - SQL Basics
- ┗ 📁 Assignment - DDL & DML
+```text
+DBMS-Solutions
+│
+├── 📁 assets
+│   └── sectra-logo.png
+│
+├── 📁 Introduction
+├── 📁 DBMS Basics
+├── 📁 SQL Basics
+├── 📁 Normalization
+├── 📁 Functional Dependency
+├── 📁 ER Diagram
+├── 📁 DDL Statements
+├── 📁 DML Statements
+├── 📁 Assignment - DBMS Basics
+├── 📁 Assignment - SQL Basics
+└── 📁 Assignment - DDL Statements
 ```
 
 ---
 
-# 📊 Progress
+# 📊 Topics Covered
 
-| Module | Status |
-|---------|--------|
+| Topic | Status |
+|-------|:------:|
 | Introduction | ✅ |
 | DBMS Basics | ✅ |
 | SQL Basics | ✅ |
-| ER Diagram | ✅ |
 | Functional Dependency | ✅ |
 | Normalization | ✅ |
-| DDL | ✅ |
-| DML | ✅ |
+| ER Diagram | ✅ |
+| DDL Statements | ✅ |
+| DML Statements | ✅ |
 | Assignments | ✅ |
 
 ---
 
-# ⭐ Support Sectra
+# 🎯 Why This Repository?
+
+✅ Easy to understand
+
+✅ Organized folder structure
+
+✅ Practice assignments
+
+✅ SQL examples
+
+✅ Beginner friendly
+
+✅ Helpful for college students
+
+---
+
+# ⭐ Support
 
 If this repository helped you,
 
-⭐ Star this repository
+🌟 Star the repository
 
 🍴 Fork it
 
-📢 Share it with your classmates
+📢 Share it with your friends
 
 ---
 
 <div align="center">
 
-## 💙 Built with ❤️ by Sectra
+# 💙 About Sectra
 
-### College Connect • Learn • Share • Grow
+<b>Sectra – College Connect</b>
+
+Connecting students with quality academic resources.
+
+Learn • Share • Grow
+
+</div>
+
+---
+
+<div align="center">
+
+# 👨‍💻 Creator
+
+## Bhanu Sesha Sai
+
+Founder of **Sectra – College Connect**
+
+Passionate about Artificial Intelligence, Machine Learning, Open Source, and building tools that help students.
+
+### 📲 Connect with Me
+
+<a href="https://www.instagram.com/bhanuxai/">
+<img src="https://img.shields.io/badge/Instagram-@bhanuxai-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<br><br>
+
+⭐ If this repository helped you, consider giving it a Star!
+
+Made with ❤️ by **Bhanu Sesha Sai**
 
 </div>
