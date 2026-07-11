@@ -138,7 +138,7 @@ Learn • Share • Grow
 </a>
 
 [![Join WhatsApp Community](https://img.shields.io/badge/Join%20WhatsApp%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CDWnuEt2D6K9oH7i34rX3O)
-<img src="https://img.shields.io/badge/Sectra-WhatsApp%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Sectra-WhatsApp%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> -->
 </a>
 
 <br><br>
