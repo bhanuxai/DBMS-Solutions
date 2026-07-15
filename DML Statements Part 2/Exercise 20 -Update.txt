@@ -1,0 +1,12 @@
+Update the Salesman name to 'Jenny' and location to 'Bristol' for the salesman having SID as 3.
+
+Table Structure:
+
+ColumnName	DataType	Description
+Sid	NUMBER	Unique ID of the salesman
+Sname	VARCHAR2	Name of the salesman
+Location	VARCHAR2	Location of the salesman
+
+Query :
+
+UPDATE Salesman SET Sname = 'Jenny', Location = 'Bristol' WHERE Sid = 3;

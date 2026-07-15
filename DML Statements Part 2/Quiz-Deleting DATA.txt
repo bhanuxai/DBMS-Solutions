@@ -1,0 +1,6 @@
+Q1 of 1
+
+The student who does not have any DOJ needs to be deleted from the Student table. Which of the following DELETE statements will meet this requirement?
+	  	
+
+OPTION :- DELETE FROM STUDENT WHERE DOJ IS NULL;

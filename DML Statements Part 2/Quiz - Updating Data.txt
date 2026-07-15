@@ -1,0 +1,32 @@
+Q1 of 4
+
+Consider the following table structure and content for 'Student' table:
+
+OPTION :- UPDATE Student SET Gender = 'F',DOJ=NULL WHERE Name='Alice'
+
+
+Q2 of 4
+
+Consider the 'Student' table as :
+Which of the following UPDATE statements will Update 2 rows for the Student table?
+
+OPTION :- UPDATE Student SET DOJ=SYSDATE WHERE Gender='M'
+
+Q3 of 4
+
+Consider the 'Student' table as :
+UPDATE Student SET DOJ = '01-FEB-15', Gender = 'F' WHERE Gender = 'M' AND Name = 'Alan'
+
+UPDATE Student SET Marks = Marks-10, Name = 'Alice' WHERE Marks > 70 AND DOJ < '31-JAN-2015'
+
+Which of the following 2 statements will be TRUE after execution of the above Update queries in that order? [Choose any TWO]
+
+OPTIONS -: Exactly 2 Students will have marks greater than 80
+	   There is only 1 Male student 
+
+
+Q4 of 4
+
+Which of the following columns in a table cannot be updated?
+
+OPTION :- A Primary Key Column which also serves as foreign key reference in another table 

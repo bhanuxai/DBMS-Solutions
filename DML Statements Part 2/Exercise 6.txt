@@ -1,0 +1,12 @@
+Delete all records from SaleDetail table for SaleId 1004.
+
+Table Structure:
+
+ColumnName	DataType	Description
+Saleid	NUMBER	Unique ID of the sale
+Prodid	NUMBER	Unique ID of the product
+Quantity	NUMBER	Quantity of the product sold
+
+Query :
+
+DELETE FROM Saledetail WHERE Saleid = 1004;

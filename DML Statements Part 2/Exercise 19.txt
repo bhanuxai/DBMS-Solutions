@@ -1,0 +1,14 @@
+Update price of products to 50 whose category is 'Apparel' and product description is 'Trouser'.
+
+Table Structure:
+
+ColumnName	DataType	Description
+Prodid	NUMBER	Unique ID of the product
+Pdesc	VARCHAR2	Description of the product
+Price	NUMBER	Price of the product
+Category	VARCHAR2	Category of the product
+Discount	NUMBER	Discount percentage of the product
+
+Query :
+
+UPDATE Product SET Price = 50 WHERE Category = 'Apparel' AND Pdesc = 'Trouser';
