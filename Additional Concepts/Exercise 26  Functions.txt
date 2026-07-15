@@ -1,0 +1,15 @@
+Write a query to display the Product Description and Discount for all the products. Display the value 'No Description' if description is NULL.
+
+Table Structure:
+
+ColumnName	DataType	Description
+Prodid	NUMBER	Unique ID of the product
+Pdesc	VARCHAR2	Description of the product
+Price	NUMBER	Price of the product
+Category	VARCHAR2	Category of the product
+Discount	NUMBER	Discount percentage of the product
+
+Query :
+
+SELECT NVL(Pdesc, 'No Description') AS Pdesc, Discount
+FROM Product;

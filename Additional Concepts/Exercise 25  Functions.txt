@@ -1,0 +1,15 @@
+Write a query to display the number of sales that were made in the last 40 months.
+
+Table Structure:
+
+ColumnName	DataType	Description
+Saleid	NUMBER	Unique ID of the sale
+Sid	NUMBER	Salesman ID
+Sldate	DATE	Date of the sale
+Amount	NUMBER	Sale amount
+
+Query :
+
+SELECT COUNT(*) AS Sale_Count
+FROM Sale
+WHERE Sldate >= ADD_MONTHS(SYSDATE, -40);
