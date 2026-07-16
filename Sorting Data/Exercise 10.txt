@@ -1,0 +1,22 @@
+Display Product ID, Category and Discount of the products which belong to the category 'Sports' or 'Apparel' in ascending order of Category and Discount.
+
+Table Structure:
+
+ColumnName	DataType	Description
+Prodid	NUMBER	Unique ID of the product
+Pdesc	VARCHAR2	Description of the product
+Price	NUMBER	Price of the product
+Category	VARCHAR2	Category of the product
+Discount	NUMBER	Discount percentage of the product
+
+Query :
+
+SELECT Prodid, Category, Discount
+FROM Product
+WHERE Category IN ('Sports', 'Apparel')
+ORDER BY Category ASC, Discount ASC;
+
+
+You can also write the condition as:
+
+WHERE Category = 'Sports' OR Category = 'Apparel'

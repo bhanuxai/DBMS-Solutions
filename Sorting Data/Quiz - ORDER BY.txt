@@ -1,0 +1,23 @@
+Q1 of 3
+
+Which of the following statement(s) is/are FALSE about order by clause? [Choose any TWO]
+
+OPTIONS :-  Where clause can be used after order by clause
+	    Order by only works on number column 
+Q2 of 3
+
+Consider the table Employee( Ename, Salary, Deptno, Job) and the query,
+
+SELECT COUNT(*) FROM Employee ORDER BY Salary WHERE Deptno=10;
+
+
+
+OPTIONS :- The Above Query will lead to error because ORDER BY clause should be used after WHERE Clause
+
+
+Q3 of 3
+
+Sample input for employee table and query output is provided below
+Which of the following query will produce the output above?
+
+OPTIONS :- SELCET Ename Salary FROM Employee ORDER BY Salary,Ename;
