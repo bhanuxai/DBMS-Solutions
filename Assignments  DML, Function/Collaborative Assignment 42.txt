@@ -1,0 +1,11 @@
+Question:
+
+Retrieve the Orderid and the number of months between Pymtdate and Orderdate for all orders where the number of months is more than 0.1 and the payment has been done. Round off the number of months up to two decimal places.
+
+Query:
+
+SELECT Orderid,
+       ROUND(MONTHS_BETWEEN(Pymtdate, Orderdate), 2) AS "No of Months"
+FROM Orders
+WHERE MONTHS_BETWEEN(Pymtdate, Orderdate) > 0.1
+  AND Pymtdate IS NOT NULL;

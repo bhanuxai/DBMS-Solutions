@@ -1,0 +1,8 @@
+Question:
+
+Display the numeric part of the Retail Outlet ID.
+
+Query:
+
+SELECT TO_NUMBER(SUBSTR(Roid, 2)) AS NumericRoid
+FROM Retailoutlet;

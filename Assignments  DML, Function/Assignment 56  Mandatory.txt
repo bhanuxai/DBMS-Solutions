@@ -1,0 +1,9 @@
+Question:
+
+Retrieve the Description of items that have more than 15 characters.
+
+Query:
+
+SELECT Descr
+FROM Item
+WHERE LENGTH(Descr) > 15;

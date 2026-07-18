@@ -1,0 +1,9 @@
+Question:
+
+Display the Itemcode of those items where the difference between Qtyonhand and Reorderlevel is more than 50. Convert the difference to positive values.
+
+Query:
+
+SELECT Itemcode
+FROM Item
+WHERE ABS(Qtyonhand - Reorderlevel) > 50;

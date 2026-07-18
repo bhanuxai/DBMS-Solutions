@@ -1,0 +1,9 @@
+Question:
+
+Retrieve the Order ID and the number of months between Order Date and Payment Date for all orders.
+
+Query:
+
+SELECT Orderid,
+       MONTHS_BETWEEN(Orderdate, Pymtdate) AS "No of Months"
+FROM Orders;

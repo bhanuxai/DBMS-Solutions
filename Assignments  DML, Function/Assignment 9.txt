@@ -1,0 +1,9 @@
+Question:
+
+Retrieve the total number of orders made and the number of orders for which payment has been done.
+
+Query:
+
+SELECT COUNT(*) AS TotalOrdersCount,
+       COUNT(Pymtdate) AS PaidOrdersCount
+FROM Orders;

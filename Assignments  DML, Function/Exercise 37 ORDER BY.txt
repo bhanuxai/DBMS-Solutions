@@ -1,0 +1,11 @@
+Question:
+
+Display the Product ID, Description, and Price of all products in ascending order of Description.
+
+Query:
+
+SELECT Prodid,
+       Pdesc,
+       Price
+FROM Product
+ORDER BY Pdesc ASC;

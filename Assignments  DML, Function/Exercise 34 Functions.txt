@@ -1,0 +1,8 @@
+Question:
+
+Display the concatenated value of Salesman Name and Location. Use the constant string ' is from ' (with a single space at the beginning and end) for concatenation.
+
+Query:
+
+SELECT Sname || ' is from ' || Location AS Result
+FROM Salesman;

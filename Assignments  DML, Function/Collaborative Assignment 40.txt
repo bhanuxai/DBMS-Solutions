@@ -1,0 +1,22 @@
+Question:
+
+Display the itemtype and classification of items. The classification is:
+
+Price between 0 and 499 → 'Cheap'
+Price between 500 and 1999 → 'Affordable'
+Price between 2000 and 4999 → 'Expensive'
+Price >= 5000 → 'Very Expensive'
+
+Display unique rows sorted by Itemtype and Classification in ascending order.
+
+Query:
+
+SELECT DISTINCT Itemtype,
+       CASE
+           WHEN Price BETWEEN 0 AND 499 THEN 'Cheap'
+           WHEN Price BETWEEN 500 AND 1999 THEN 'Affordable'
+           WHEN Price BETWEEN 2000 AND 4999 THEN 'Expensive'
+           WHEN Price >= 5000 THEN 'Very Expensive'
+       END AS Classification
+FROM Item
+ORDER BY Itemtype ASC, Classification ASC;

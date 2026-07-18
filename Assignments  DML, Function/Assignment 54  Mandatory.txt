@@ -1,0 +1,11 @@
+Question:
+
+Retrieve the Employee ID, Employee Name of Billing Staff, and the Retail Outlet where they work. Perform a case-insensitive search.
+
+Query:
+
+SELECT Empid,
+       Empname,
+       Worksin
+FROM Empdetails
+WHERE UPPER(Designation) = 'BILLING STAFF';

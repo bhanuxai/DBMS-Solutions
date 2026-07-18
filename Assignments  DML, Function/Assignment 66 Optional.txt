@@ -1,0 +1,10 @@
+Question:
+
+Find the total quoted price as "TotalPrice" for accepted quotations in the month of June.
+
+Query:
+
+SELECT SUM(Quotedprice) AS TotalPrice
+FROM Quotation
+WHERE Qstatus = 'Accepted'
+  AND TO_CHAR(Qdate, 'MON') = 'JUN';

@@ -1,0 +1,8 @@
+Question:
+
+Display the current date in the format 'Mon/DD/YYYY Day'.
+
+Query:
+
+SELECT TO_CHAR(SYSDATE, 'Mon/DD/YYYY Day') AS CurrentDate
+FROM DUAL;

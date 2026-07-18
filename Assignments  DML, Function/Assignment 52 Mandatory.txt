@@ -1,0 +1,20 @@
+Question:
+
+The management of EasyShop would like to classify employee salaries as follows:
+
+Salary < 2500 → Class 3
+Salary between 2500 and 5000 → Class 2
+Salary > 5000 → Class 1
+
+Display EmpId, Salary, and the salary classification as SalGrade.
+
+Query:
+
+SELECT Empid,
+       Salary,
+       CASE
+           WHEN Salary < 2500 THEN 'Class 3'
+           WHEN Salary BETWEEN 2500 AND 5000 THEN 'Class 2'
+           ELSE 'Class 1'
+       END AS SalGrade
+FROM Empdetails;

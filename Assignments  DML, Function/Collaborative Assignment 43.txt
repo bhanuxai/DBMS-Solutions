@@ -1,0 +1,12 @@
+Question:
+
+The salary of Managers has been increased by 20%. Retrieve the Empid, existing salary as "Current Salary", increased salary as "New Salary", and the difference between the existing and increased salary as "Incremented Amount". Round off the increased salary up to two decimal places.
+
+Query:
+
+SELECT Empid,
+       Salary AS "Current Salary",
+       ROUND(Salary * 1.20, 2) AS "New Salary",
+       (Salary * 1.20 - Salary) AS "Incremented Amount"
+FROM Empdetails
+WHERE Designation = 'Manager';

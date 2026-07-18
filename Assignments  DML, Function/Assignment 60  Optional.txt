@@ -1,0 +1,9 @@
+Question:
+
+Retrieve the Order ID and the number of days between Order Date and Payment Date for all orders. Display the number of days as positive values.
+
+Query:
+
+SELECT Orderid,
+       ABS(Pymtdate - Orderdate) AS NoOfDays
+FROM Orders;

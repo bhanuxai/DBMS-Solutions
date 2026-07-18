@@ -1,0 +1,23 @@
+Question:
+
+Salary hikes are given to all employees based on their Designation. Display EmpId, EmpName, Salary, and IncreasedSalary according to the following hike percentages:
+
+Administrator → 10%
+Manager → 5%
+Billing Staff → 20%
+Security → 25%
+Others → 2%
+
+Query:
+
+SELECT Empid,
+       Empname,
+       Salary,
+       CASE
+           WHEN Designation = 'Administrator' THEN Salary * 1.10
+           WHEN Designation = 'Manager' THEN Salary * 1.05
+           WHEN Designation = 'Billing Staff' THEN Salary * 1.20
+           WHEN Designation = 'Security' THEN Salary * 1.25
+           ELSE Salary * 1.02
+       END AS IncreasedSalary
+FROM Empdetails;

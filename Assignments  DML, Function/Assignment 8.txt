@@ -1,0 +1,10 @@
+Question:
+
+Retrieve the Order ID, Order Status, and Payment Mode of all orders. Display 'Payment yet not done' in the PymtMode column if the payment has not been done.
+
+Query:
+
+SELECT Orderid,
+       Status,
+       NVL(Pymtmode, 'Payment yet not done') AS PymtMode
+FROM Orders;

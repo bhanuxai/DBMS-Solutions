@@ -1,0 +1,11 @@
+Question:
+
+Retrieve the maximum salary, minimum salary, total salary, and average salary of employees.
+
+Query:
+
+SELECT MAX(Salary) AS MaxSal,
+       MIN(Salary) AS MinSal,
+       SUM(Salary) AS TotalSal,
+       AVG(Salary) AS AvgSal
+FROM Empdetails;
