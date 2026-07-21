@@ -1,0 +1,10 @@
+Question:
+Display product id and total quantity for products that have been sold more than once. Consider only those sale instances where the quantity sold was greater than 1.
+
+Oracle SQL Query:
+SELECT Prodid,
+       SUM(Quantity) AS QTY_SOLD
+FROM Saledetail
+WHERE Quantity > 1
+GROUP BY Prodid
+HAVING COUNT(*) > 1;

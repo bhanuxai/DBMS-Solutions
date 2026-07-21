@@ -1,0 +1,7 @@
+Q1 of 1
+
+Consider the following “Quotation” table. How many rows would be displayed when the following query is executed?
+
+SELECT ItemCode, COUNT(*) FROM Quotation GROUP BY SupplierId, ItemCode;
+
+OPTION :- B)4

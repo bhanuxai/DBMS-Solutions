@@ -1,0 +1,10 @@
+Question:
+Display month of sale and number of sales done in that month, sorted in descending order of sales.
+
+Oracle SQL Query:
+SELECT TO_CHAR(Sldate, 'FMMonth') AS MONTH,
+       COUNT(Saleid) AS NUMBER_SALE
+FROM Sale
+GROUP BY TO_CHAR(Sldate, 'FMMonth'),
+         TO_CHAR(Sldate, 'MM')
+ORDER BY COUNT(Saleid) DESC;

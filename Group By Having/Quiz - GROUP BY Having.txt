@@ -1,0 +1,14 @@
+Q1)Given the employee table as input, choose the query that displays department wise average salaries sorted in descending order.
+
+OPTION :- SELECT AVG(SALARY) AVGSAL,DEPT FROM EMPLOYEE GROUP BY DEPT ORDER BY AVGSAL DESC
+
+
+ 
+Q2)Given the Employee table as input, which of the following query displays departments that have more than 1 employees?
+
+OPTION :- SELECT DEPT,COUNT(*) FROM EMPLOYEE GROUP BY DEPT HAVING COUNT(*)>1
+
+
+Q3)Which statement shows the department ID, minimum salary, and maximum salary paid in that department, only if the minimum salary is less than 5000 and the maximum salary is more than 15000?
+
+OPTION:- SELECT DEPT ID,MIN(SALARY),MAX(SALARY) FROM EMPLOYEE GROUP BY DEPTID HAVING MIN(SALARY) < 5000 AND MAX(SALARY) > 15000;
